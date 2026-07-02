@@ -24,6 +24,7 @@ Tech Stack: HTML, CSS, JavaScript
 🌾 AI-Based Farmer Query Support and Advisory System
 
 A platform that provides AI-assisted agricultural guidance and query support for farmers.
+Tech Stack: HTML, CSS, JavaScript
 
 📄 AI Resume Analyzer + Job Matcher
 
