@@ -26,10 +26,10 @@ Tech Stack: HTML, CSS, JavaScript
 A platform that provides AI-assisted agricultural guidance and query support for farmers.
 Tech Stack: HTML, CSS, JavaScript
 
-📄 AI Resume Analyzer + Job Matcher
+📄 AI Resume Analyzer + Job Matcher(AI Projecct)
 
-A Python application that analyzes resumes and matches candidates with relevant job opportunities.
-Tech Stack: Python
+A Java application that analyzes resumes and matches candidates with relevant job opportunities.
+Tech Stack:Frontend-HTML, CSS: Framework-SpringBoot: DataBase-MYSQL: Backend-Java
 
 
 🛠️ Technical Skills
